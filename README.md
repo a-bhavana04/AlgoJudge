@@ -79,8 +79,4 @@ Frontend:
    cd frontend
    npm test
 
-License
--------
-
-MIT License. See LICENSE file.
 
