@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+.bg-gradient-to-br {
+  background: linear-gradient(135deg, #111827 0%, #374151 100%);
+}

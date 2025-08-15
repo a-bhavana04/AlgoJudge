@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+docker
+python-dotenv
+httpx
+psycopg2-binary
+sqlalchemy
+bcrypt
+pyjwt
+python-multipart
+torch
+transformers
+accelerate
+safetensors
